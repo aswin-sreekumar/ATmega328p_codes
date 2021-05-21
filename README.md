@@ -17,5 +17,6 @@ Embedded C programs on fundamental concepts for Atmel ATmega328p chip.
 - Reading voltage of input using ADC and transmitting through UART
 - External interrupts - LOW LEVEL triggered
 - Pin change interrupt
-- Power down mode of ATmega328p
+- Power down mode of ATmega328p (INT0 trigger)
+- Power down mode of ATmega328p (INTO and PCINT16 trigger)
 

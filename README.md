@@ -18,5 +18,5 @@ Embedded C programs on fundamental concepts for Atmel ATmega328p chip.
 - External interrupts - LOW LEVEL triggered
 - Pin change interrupt
 - Power down mode of ATmega328p (INT0 trigger)
-- Power down mode of ATmega328p (INTO and PCINT16 trigger)
+- Power down mode of ATmega328p (PCINT16 trigger)
 

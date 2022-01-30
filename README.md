@@ -15,6 +15,7 @@ Embedded C programs on fundamental concepts for Atmel ATmega328p chip.
 - Interfacing HCSR04 Ultrasonic sensor to ATmega328p
 - ADC (Analog to digital convertor) input for duty cycle variation of generated PWM wave
 - Reading voltage of input using ADC and transmitting through UART
+- 5 channel ADC + UART
 - External interrupts - LOW LEVEL triggered
 - Pin change interrupt
 - Power down mode of ATmega328p (INT0 trigger)
